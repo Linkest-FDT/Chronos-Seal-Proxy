@@ -1,5 +1,8 @@
 # Chronos Seal Proxy
 
+> ⚠️ STATUS: ARCHIVED (PAUSED)
+This project is no longer under active development. The transition to Godot engine has made the underlying RM-based encryption architecture obsolete. This repository remains as an architectural milestone and a monument to our early security explorations.
+
 > Zero-knowledge "Blind Proxy" OAuth Token exchange relay server — providing OAuth Token exchange services for the Chronos Seal GUI.
 
 ## 🛡️ Core Security Principles
